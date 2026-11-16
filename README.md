@@ -1,4 +1,4 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Trial 1
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Python Trial 1
 
 ## Foreword
 This is your first trial into introductory Python programming. The focus of this trial will be on elementary Python variables and control flow (ie, if-statements and for-loops).
